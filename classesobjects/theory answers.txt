@@ -1,0 +1,27 @@
+question no 1 PART A 
+
+limitations of a structured programming 
+
+structured programs are time consuming 
+they are slower as execution of long codes take time 
+they consume extra memory
+often the codes are not readable 
+they become difficult  to understand 
+
+question no 1 PART B 
+
+four principles of oop are : abstraction,encapsulation , polymorphism and inheritance 
+abstraction in simple words is that one class created in the code should be familiar of the attributes of the other class 
+it hide unnecessary details  
+encapsulation some class members are only accessible by the class only i.e they are private 
+but some are accessible outside the class i.e public members
+polymorphism classes with same name performing but performing different tasks i.e function over riding 
+inheritance if classes in child parent relationship , i.e private members of the child can be accessed by the child indirectly
+
+
+question no 2 
+definition 
+abstraction example : we created a class of water bottle and another class of material so material camnm access the members of water bottle 
+
+encapsulation salary of employee is private but its company name and job status are private
+
